@@ -1067,3 +1067,23 @@ Gravestone Mod: Requires version 1.10.3 but mod is not found on client.
 [04:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> quizas entrando y saliendo
 [04:56:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 lost connection: Disconnected
 [04:56:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 left the game
+[05:04:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CAMIL31XD moved wrongly!
+[05:04:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CAMIL31XD lost connection: Disconnected
+[05:04:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CAMIL31XD left the game
+[05:05:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[05:05:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 50 mods : ctgui@1.0.0,abyssaldepths@1.12.2-0.3.1,cgm@0.15.3,coralreef@2.0,zawa@1.12.2-2.1.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,crafttweakerjei@2.0.3,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,gravestone@1.10.3,securitycraft@v1.9.12,libraryex@1.2.2,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,netherex@2.2.5,playerrevive@1.0,overlast@0.0.2
+[05:05:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:05:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hevilfren123[/127.71.12.91:51805] logged in with entity id 1555560 at (284.36875882638725, 64.0, 421.69999998807907)
+[05:05:22] [Server thread/INFO] [dsurround]: Player [hevilfren123] connected with Dynamic Surroundings @VERSION@
+[05:05:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 joined the game
+[05:05:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hevilfren123'/1555560, l='world', x=284.37, y=64.00, z=421.70] connected. Sending ping
+[05:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> donde estas?
+[05:09:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 lost connection: Disconnected
+[05:09:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 left the game
+[05:12:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[05:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[05:12:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:12:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
