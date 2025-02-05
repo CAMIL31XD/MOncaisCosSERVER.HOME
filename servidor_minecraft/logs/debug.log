@@ -23273,3 +23273,56 @@ Gravestone Mod: Requires version 1.10.3 but mod is not found on client.
 [04:51:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
 [04:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> veni
 [04:51:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Sweet dreams]
+[04:52:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> lleva todo mejor nos vamos
+[04:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> lleva tu cama tons
+[04:53:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:53:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> se me buguea el agua lpm
+[04:54:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> xd?
+[04:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> no me deja agarrarlo,desaparece
+[04:54:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> y eso
+[04:55:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> quizas entrando y saliendo
+[04:56:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 lost connection: Disconnected
+[04:56:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 left the game
+[04:56:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:59:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:59:53] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[04:59:53] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCustom['Redstone cube'/1444767, l='world', x=244.52, y=66.00, z=313.55]
+[04:59:53] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[04:59:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:05] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:00:05] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfEnderman['Assimilated Enderman'/1018342, l='world', x=222.65, y=30.00, z=359.66]
+[05:00:07] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:00:07] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfEnderman['Assimilated Enderman'/1018342, l='world', x=279.30, y=62.47, z=329.30]
+[05:00:07] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[05:00:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:47] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:00:47] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityMudo['Rupter'/1409371, l='world', x=226.15, y=64.00, z=310.50]
+[05:00:47] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[05:00:48] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:00:48] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCustom['Redstone cube'/1451300, l='world', x=224.95, y=64.00, z=311.28]
+[05:00:48] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[05:00:56] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:00:56] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCustom['Redstone cube'/1453818, l='world', x=239.13, y=64.00, z=315.84]
+[05:00:56] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[05:01:07] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:01:07] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityInfVillager['Assimilated Villager'/1486993, l='world', x=230.54, y=65.00, z=307.38]
+[05:01:07] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[05:01:23] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:01:23] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCustom['Redstone cube'/1442837, l='world', x=221.75, y=64.00, z=307.27]
+[05:01:23] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[05:01:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:01:31] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:01:31] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCustom['Redstone cube'/1453423, l='world', x=230.54, y=65.00, z=306.59]
+[05:01:31] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[05:01:35] [Netty Epoll Server IO #0/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[05:01:35] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCustom['Redstone cube'/1453423, l='world', x=231.47, y=64.00, z=308.09]
+[05:01:35] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[05:02:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
