@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-05 04:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-05 01:11:20 +0000"
@@ -656,6 +662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-02-05 04:21:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:root": {
     "criteria": {
       "handle_in_inventory": "2025-02-05 01:13:52 +0000"
@@ -712,10 +724,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-02-05 04:20:18 +0000",
       "swampland": "2025-02-05 00:58:18 +0000",
       "birch_forest": "2025-02-05 03:55:30 +0000",
       "beaches": "2025-02-05 03:55:52 +0000",
       "extreme_hills_with_trees": "2025-02-05 03:59:07 +0000",
+      "forest_hills": "2025-02-05 04:20:19 +0000",
       "plains": "2025-02-05 00:57:08 +0000",
       "taiga": "2025-02-04 19:58:53 +0000",
       "taiga_hills": "2025-02-05 00:35:47 +0000",
@@ -949,7 +963,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2025-02-05 01:28:13 +0000"
+      "skeleton": "2025-02-05 01:28:13 +0000",
+      "zombie": "2025-02-05 04:15:48 +0000"
     },
     "done": false
   },
