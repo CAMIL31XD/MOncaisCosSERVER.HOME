@@ -878,3 +878,33 @@ Gravestone Mod: Requires version 1.10.3 but mod is not found on client.
 [03:59:07] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [29, 37] in dimension 0 (overworld) while populating chunk [28, 35], causing cascading worldgen lag.
 [03:59:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [03:59:12] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[04:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given Night Vision (ID 16) * 0 to CAMIL31XD for 999 seconds
+[04:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[04:08:03] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[04:08:03] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[04:08:03] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[04:08:03] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[04:08:03] [Server thread/INFO] [Meson ASM]: Patch result: true
+[04:08:25] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[04:08:25] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[04:08:25] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[04:08:25] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[04:08:25] [Server thread/INFO] [Meson ASM]: Patch result: true
+[04:08:25] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[04:08:25] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[04:08:25] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[04:08:25] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[04:08:25] [Server thread/INFO] [Meson ASM]: Patch result: true
+[04:09:54] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:09:54] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 50 mods : ctgui@1.0.0,abyssaldepths@1.12.2-0.3.1,cgm@0.15.3,coralreef@2.0,zawa@1.12.2-2.1.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,crafttweakerjei@2.0.3,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,gravestone@1.10.3,securitycraft@v1.9.12,libraryex@1.2.2,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,netherex@2.2.5,playerrevive@1.0,overlast@0.0.2
+[04:09:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:09:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hevilfren123[/127.71.12.91:53251] logged in with entity id 177985 at (209.47389917062, 75.0, 275.33925245130996)
+[04:09:56] [Server thread/INFO] [dsurround]: Player [hevilfren123] connected with Dynamic Surroundings @VERSION@
+[04:09:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 joined the game
+[04:09:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hevilfren123'/177985, l='world', x=209.47, y=75.00, z=275.34] connected. Sending ping
+[04:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> diavlo
+[04:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> suuu 48 fps
+[04:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> naiz
+[04:11:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CAMIL31XD moved wrongly!
+[04:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> ontas
+[04:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> -71 22 105
