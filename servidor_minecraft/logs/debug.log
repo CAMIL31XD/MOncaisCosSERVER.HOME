@@ -24020,3 +24020,39 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:25:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:26:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:26:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:19] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[21:28:19] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/446572, l='world', x=38.32, y=67.00, z=315.48]
+[21:28:19] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[21:28:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:56] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:30:07] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[21:30:07] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/536984, l='world', x=150.32, y=80.00, z=405.50]
+[21:30:07] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[21:30:15] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:30:15] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:30:15] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:30:22] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:30:24] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[21:30:24] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityPig['Pig'/559961, l='world', x=192.81, y=62.62, z=392.21]
+[21:30:24] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[21:30:24] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:30:24] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:30:24] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:30:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:30:55] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[21:30:55] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityRabbit['Rabbit'/170, l='world', x=165.30, y=80.67, z=382.45]
+[21:30:55] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[21:31:11] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[21:31:11] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityRabbit['Rabbit'/152, l='world', x=159.65, y=78.91, z=335.80]
+[21:31:11] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[21:31:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:34:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:36:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
