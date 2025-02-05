@@ -1105,3 +1105,19 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:30:24] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
 [21:30:24] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
 [21:30:24] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:komododragon
+[21:39:46] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[21:39:46] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[21:39:46] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[21:39:46] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[21:39:46] [Server thread/INFO] [Meson ASM]: Patch result: true
+[21:47:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CAMIL31XD lost connection: Disconnected
+[21:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CAMIL31XD left the game
+[21:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:48:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:48:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:48:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:48:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:48:01] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:48:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:48:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:48:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
