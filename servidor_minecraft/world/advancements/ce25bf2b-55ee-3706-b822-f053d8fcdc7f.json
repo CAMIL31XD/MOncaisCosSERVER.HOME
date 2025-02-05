@@ -1,1 +1,27 @@
-{}
+{
+  "nocubessrparmory:advsrparmoryroot": {
+    "criteria": {
+      "advsrparmoryroot": "2025-02-05 03:53:15 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advsrpnestsaddonroot": {
+    "criteria": {
+      "advsrpnestsaddonroot": "2025-02-05 03:53:15 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2025-02-05 03:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2025-02-05 03:53:15 +0000",
+      "taiga_hills": "2025-02-05 03:54:21 +0000"
+    },
+    "done": false
+  }
+}
