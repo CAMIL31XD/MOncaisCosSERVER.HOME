@@ -1532,3 +1532,27 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:29:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
 [03:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Creative Mode]
 [03:33:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set game difficulty to Easy]
+[03:39:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:40:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Creative Mode]
+[03:41:01] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:41:03] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:42:34] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:42:34] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:42:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:42:37] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:andeancondor
+[03:42:37] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:andeancondor
+[03:42:42] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:beaver
+[03:42:42] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:beaver
+[03:42:42] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:beaver
+[03:42:42] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:indiangharial
+[03:45:28] [Server thread/INFO] [Scaling Health]: Blight Ghost has died
+[03:47:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set game difficulty to Peaceful]
+[03:47:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CAMIL31XD lost connection: Disconnected
+[03:47:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CAMIL31XD left the game
+[03:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:47:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:47:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:47:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:47:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:47:47] [Server thread/INFO] [FML]: Unloading dimension 0
