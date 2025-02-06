@@ -24359,3 +24359,40 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [23:42:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:43:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CAMIL31XD has made the advancement [Hammer Time!]
+[23:44:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:42] [Server thread/DEBUG] [FutureMC]: Initializing default Smoker recipes
+[23:46:42] [Server thread/DEBUG] [FutureMC]: Completed adding default Smoker recipes in 3ms
+[23:47:03] [Server thread/DEBUG] [FutureMC]: Initializing default Blast Furnace recipes
+[23:47:03] [Server thread/DEBUG] [FutureMC]: Completed adding default Blast Furnace recipes in 1ms
+[23:47:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:48:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:48:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:49:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:50:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:51:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:51:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:52:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:53:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:54:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:54:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:55:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:56:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:57:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:57:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:58:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:59:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:33] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[00:00:33] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[00:00:33] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[00:00:33] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[00:00:33] [Server thread/INFO] [Meson ASM]: Patch result: true
+[00:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CAMIL31XD has made the advancement [Hot Stuff]
+[00:00:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
