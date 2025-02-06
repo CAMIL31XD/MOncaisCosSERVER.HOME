@@ -1493,3 +1493,27 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:07:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
 [03:07:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
 [03:07:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [51, 4] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [52, 4] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [50, 3] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [51, 3] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [52, 3] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [52, 5] in dimension 0 (overworld) while populating chunk [52, 3], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [51, 5] in dimension 0 (overworld) while populating chunk [52, 3], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id duneons:irongolempillager
+[03:10:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[03:10:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id duneons:minerskeleton
+[03:11:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Spectator Mode]
+[03:11:11] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:11:12] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:11:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:15:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Spectator Mode]
+[03:15:39] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]

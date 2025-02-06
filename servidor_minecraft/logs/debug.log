@@ -25171,3 +25171,66 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:08:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:08:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
 [03:08:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:08:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:08:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:09:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:09:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[03:09:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[03:09:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[03:09:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[03:10:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [51, 4] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [52, 4] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [50, 3] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [51, 3] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [52, 3] in dimension 0 (overworld) while populating chunk [50, 4], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [52, 5] in dimension 0 (overworld) while populating chunk [52, 3], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [51, 5] in dimension 0 (overworld) while populating chunk [52, 3], causing cascading worldgen lag.
+[03:10:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:10:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id duneons:irongolempillager
+[03:10:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[03:10:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id duneons:minerskeleton
+[03:10:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:10:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:10:53] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[03:10:53] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCow['Cow'/2925511, l='world', x=670.21, y=68.00, z=60.56]
+[03:10:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:10:53] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[03:10:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:10:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Spectator Mode]
+[03:11:11] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:11:12] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:11:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:11:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:11:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:46] [Netty Epoll Server IO #2/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[03:11:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityCow['Cow'/2929669, l='world', x=512.17, y=64.00, z=132.18]
+[03:11:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[03:11:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[03:12:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:13:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:13:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:14:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:15:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:15:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Spectator Mode]
+[03:15:39] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
+[03:16:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:16:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:17:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:18:14] [Server thread/DEBUG] [FutureMC]: Initializing default Smoker recipes
+[03:18:14] [Server thread/DEBUG] [FutureMC]: Completed adding default Smoker recipes in 2ms
+[03:18:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
