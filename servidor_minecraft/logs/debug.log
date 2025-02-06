@@ -25266,3 +25266,33 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:28:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:28:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Creative Mode]
 [03:28:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Creative Mode]
+[03:29:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:30:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:31:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:31:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:32:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Creative Mode]
+[03:33:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set game difficulty to Easy]
+[03:34:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:34:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Badcreeper is 0.01
+[03:36:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Badcreeper is 0.01
+[03:36:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Buglin is 0.01
+[03:36:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Assimilated Human is 0.01
+[03:36:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:36:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Assimilated Human is 0.01
+[03:37:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:37:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Assimilated Human is 0.01
+[03:37:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Assimilated Human is 0.01
+[03:37:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Walking Head is 0.01
+[03:37:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:38:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:38:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for CAMIL31XD is 0.01
+[03:38:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Buglin is 0.01
+[03:38:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Buglin is 0.01
+[03:38:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Buglin is 0.01
