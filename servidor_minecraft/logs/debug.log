@@ -24491,3 +24491,59 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [02:06:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
 [02:07:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:07:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:08:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
+[02:09:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:10:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
+[02:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
+[02:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:10:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[02:10:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[02:10:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:10:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[02:11:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[02:11:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[02:11:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:12:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:13:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
+[02:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
+[02:13:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:13:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:13:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:13:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:13:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
+[02:13:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:14:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:14:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:14:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:15:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:16:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:16:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
+[02:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Altered Tendons] * 1 to CAMIL31XD]
+[02:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Infected Flesh] * 1 to CAMIL31XD]
+[02:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given [Toxic Lung] * 1 to CAMIL31XD]
+[02:17:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set game difficulty to Easy]
+[02:17:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set game difficulty to Peaceful]
+[02:18:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
