@@ -1517,3 +1517,13 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:15:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Spectator Mode]
 [03:15:39] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:brownrat
 [03:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set game difficulty to Easy]
+[03:20:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:indianpangolin
+[03:20:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:baldeagle
+[03:25:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Spectator Mode]
+[03:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set game difficulty to Peaceful]
+[03:25:38] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:indianpangolin
+[03:25:38] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:baldeagle
+[03:25:38] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id zawa:baldeagle
+[03:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Survival Mode]
+[03:28:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set own game mode to Creative Mode]
