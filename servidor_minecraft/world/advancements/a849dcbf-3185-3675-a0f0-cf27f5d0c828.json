@@ -863,6 +863,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedarmor": {
+    "criteria": {
+      "advtwistedarmor": "2025-02-06 02:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 00:02:58 +0000"
@@ -974,6 +980,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-02-05 21:33:52 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwistedpart": {
+    "criteria": {
+      "advtwistedpart": "2025-02-06 02:05:31 +0000"
     },
     "done": true
   },
@@ -1470,6 +1482,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advbreakegg": {
+    "criteria": {
+      "advbreakegg": "2025-02-06 02:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-05 00:02:22 +0000"
@@ -1551,6 +1569,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2025-02-06 00:19:19 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advrefinesample": {
+    "criteria": {
+      "advrefinesample": "2025-02-06 02:06:43 +0000"
     },
     "done": true
   }
