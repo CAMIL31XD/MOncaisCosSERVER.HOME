@@ -1181,15 +1181,15 @@
     },
     "done": true
   },
-  "nocubessrparmory:advgorebow": {
-    "criteria": {
-      "advgorebow": "2025-02-06 00:20:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-05 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advgorebow": {
+    "criteria": {
+      "advgorebow": "2025-02-06 00:20:55 +0000"
     },
     "done": true
   },
