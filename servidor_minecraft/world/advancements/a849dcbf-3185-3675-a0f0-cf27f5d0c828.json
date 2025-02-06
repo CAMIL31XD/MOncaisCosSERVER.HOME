@@ -381,6 +381,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advrefinery": {
+    "criteria": {
+      "advrefinery": "2025-02-06 01:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-05 00:02:58 +0000"
@@ -699,6 +705,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advdarkcastle": {
+    "criteria": {
+      "advdarkcastle": "2025-02-06 01:56:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-05 00:02:22 +0000"
@@ -911,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-02-06 01:45:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-05 01:23:50 +0000"
@@ -974,6 +992,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-05 01:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-02-06 01:45:01 +0000"
     },
     "done": true
   },
@@ -1371,6 +1395,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-02-05 00:57:08 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:adventeringthehive": {
+    "criteria": {
+      "adventeringthehive": "2025-02-06 01:46:16 +0000"
     },
     "done": true
   },
