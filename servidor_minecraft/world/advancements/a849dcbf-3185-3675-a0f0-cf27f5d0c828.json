@@ -53,9 +53,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2025-02-07 02:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2025-02-05 01:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-07 02:45:48 +0000"
     },
     "done": true
   },
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-02-07 02:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-05 00:50:50 +0000"
@@ -284,6 +302,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-02-05 01:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-02-07 02:35:25 +0000"
     },
     "done": true
   },
@@ -453,9 +477,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-02-07 02:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-05 04:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-02-07 02:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-07 02:35:25 +0000"
     },
     "done": true
   },
@@ -776,7 +818,8 @@
       "skeleton": "2025-02-05 01:28:13 +0000",
       "zombie": "2025-02-05 04:15:48 +0000",
       "spider": "2025-02-07 01:48:15 +0000",
-      "creeper": "2025-02-05 04:45:27 +0000"
+      "creeper": "2025-02-05 04:45:27 +0000",
+      "enderman": "2025-02-07 02:51:24 +0000"
     },
     "done": false
   },
@@ -1080,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-02-07 02:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-05 01:11:20 +0000"
@@ -1257,6 +1306,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-02-05 01:23:00 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advpestilentpart": {
+    "criteria": {
+      "advpestilentpart": "2025-02-07 02:21:04 +0000"
     },
     "done": true
   },
