@@ -1,5 +1,5 @@
 {
-  "playerReviveTime": 300,
+  "playerReviveTime": 50,
   "playerReviveSurviveTime": 1200,
   "playerHealthAfter": 2,
   "playerFoodAfter": 6,
